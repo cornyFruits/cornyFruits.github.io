@@ -1,2 +1,2 @@
 # cornyFruits.github.io
-A portfolio website 
+A fake login page (simulating a phishing attack). Used in attacks carried out by my rubber ducky. For educational and academic purposes only. 
